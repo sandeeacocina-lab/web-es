@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sandramangas.com/sitemap.xml
+Sitemap: https://sandramangas.es/sitemap.xml
